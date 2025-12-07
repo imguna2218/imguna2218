@@ -41,21 +41,6 @@ I am a software developer obsessed with **performance, concurrency, and sandboxi
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=imguna2218&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imguna2218&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
-</div>
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imguna2218&theme=tokyonight&hide_border=true" alt="streak graph" />
-</div>
-
----
-
 ## 📬 Connect with Me
 
 <div align="center">
