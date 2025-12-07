@@ -44,9 +44,9 @@ I am a software developer obsessed with **performance, concurrency, and sandboxi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imguna2218&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imguna2218&show_icons=true&theme=tokyonight&hide_border=true&random=1" height="180" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imguna2218&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imguna2218&layout=compact&theme=tokyonight&hide_border=true&random=1" height="180" alt="languages graph" />
 </div>
 <br/>
 
