@@ -7,7 +7,7 @@ I am a software developer obsessed with **performance, concurrency, and sandboxi
 - 🔭 I’m currently working on **EvalX** (Judge0 - Indian version) (High-performance Code Execution Engine in Rust)
 - 💼 Former Intern at **LeanTech Labs** 
 - 🌱 Constantly learning new things
-- ⚡ Fun fact: I treat memory leaks like personal insults.
+- ⚡ Fun fact: Don't see the stats,  My work is on private repos !! 
 
 ---
 
